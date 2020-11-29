@@ -7,7 +7,7 @@
 ## General info
 This project visualizes the A* path search algorithm.
 Interactively, you can add start, target and optionally barriers and the shortest path between start and target will be found
-![Alt Demo of the project](Image https://github.com/SommerOliver/PathFindingAStar/blob/master/Demo.png)
+![Demo picture of the project](https://github.com/SommerOliver/PathFindingAStar/blob/master/Demo.png)
 	
 ## Technologies
 Project is created with:
